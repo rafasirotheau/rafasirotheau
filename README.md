@@ -3,8 +3,8 @@
 ![Profile views](https://gpvc.arturio.dev/rafasirotheau)
 ---
 
-- 🏢 Currently working at [@avenuesec](https://github.com/avenuesec)
-- 💬 Interests: frontend, accessibility, ux, opensource
+- 🏢 Currently working at [@Farfetch](https://github.com/Farfetch) as Engineering Lead
+- 💬 Interests: frontend, accessibility, ux, automation, opensource
 
 #### 📫 Reach me
 [![Linkedin Badge](https://img.shields.io/badge/-rafasirotheau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafasirotheau/)](https://www.linkedin.com/in/rafasirotheau/)
