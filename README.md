@@ -3,7 +3,7 @@
 ![Profile views](https://gpvc.arturio.dev/rafasirotheau)
 ---
 
-- 🏢 Currently working at [@Farfetch](https://github.com/Farfetch) as Engineering Lead
+- 🏢 Currently working at [@hiburrow](https://github.com/hiburrow) as Software Engineer
 - 💬 Interests: frontend, accessibility, ux, automation, opensource
 
 #### 📫 Reach me
