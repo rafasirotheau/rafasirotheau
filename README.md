@@ -6,6 +6,12 @@
 - 🏢 Currently working at [@hiburrow](https://github.com/hiburrow) as Software Engineer
 - 💬 Interests: frontend, accessibility, ux, automation, opensource
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-user-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-user-contribution-light.svg" />
+  <img alt="github-snake" src="github-user-contribution-light.svg" />
+</picture>
+
 #### 📫 Reach me
 [![Linkedin Badge](https://img.shields.io/badge/-rafasirotheau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafasirotheau/)](https://www.linkedin.com/in/rafasirotheau/)
 [![Gmail Badge](https://img.shields.io/badge/-lealyfkkt@relay.firefox.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lealyfkkt@relay.firefox.com)](mailto:lealyfkkt@relay.firefox.com)
