@@ -1,6 +1,6 @@
 ### Live long and prosper 🖖
 
-![Profile views](https://gpvc.arturio.dev/rafasirotheau)
+![Profile views](https://komarev.com/ghpvc/?username=rafasirotheau&color=orange)
 ---
 
 - 🏢 Currently working at [@hiburrow](https://github.com/hiburrow) as Software Engineer
@@ -38,5 +38,7 @@
 
 #### ⚡ Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafasirotheau&layout=compact&langs_count=16&theme=monokai)
+
+![](https://hit.yhype.me/github/profile?user_id=937445)
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api?username=rafasirotheau&show_icons=true&theme=monokai&include_all_commits=true&count_private=true) -->
